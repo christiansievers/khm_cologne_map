@@ -1,6 +1,5 @@
-# WorkAdventure Map Starter Kit
+# KHM Cologne as a WorkAdventure map
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+open access via <https://play.workadventu.re/_/global/christiansievers.github.io/khm_cologne_map/map.json>
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-
+Made in 2020 during the pandemic to facilitate accidental social encounters between fellow students and colleagues at [Kunsthochschule für Medien Köln / Academy of Media Arts Cologne ](https://www.khm.de/)
